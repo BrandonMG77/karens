@@ -346,11 +346,11 @@ Faculity-member
 
 .descripcion_karen {
 width: 70%;
-float: left;
+float: right;
 }
 
 .karen_imagen{
-    float: right;
+    float: left;
 }
 
 #karen_descripcion {
