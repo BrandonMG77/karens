@@ -76,10 +76,10 @@ Navigation bar
 }
 
 .btn-trial a{
-	background-color: #5FCF80;
+	background-color: #E25F5F;
 	border-radius: 25px;
 	color: #ffffff !important;
-	border: 1px solid #5FCF80;
+	border: 1px solid #E25F5F;
 }
 .btn-trial a:hover, .btn-trial a:focus{
 	border: 1px solid #5FCF80;
@@ -328,6 +328,15 @@ p.det-p {
 Faculity-member
 ************************************/
 
+.karen_descripcion {
+    text-align: justify;
+}
+
+.karen_chart {
+    margin-top: auto;
+}
+
+/*
 #faculity-member {
 
  
@@ -353,8 +362,7 @@ float: right;
     float: left;
 }
 
-#karen_descripcion {
-    text-align: justify;
+
 }
 
 
@@ -362,7 +370,8 @@ float: right;
 
 /***********************************
 Cta
-************************************/
+************************************
+*/
 #cta-2{
     padding: 140px 0;
 }
@@ -382,7 +391,7 @@ Cta
     min-width: 280px;
     margin-left: -4px;
     margin-bottom: 2px;
-    border: 1px solid #5fcf80;
+    border: 1px solid #E25F5F;
     background-color: rgb(247, 247, 247);
     border-radius: 30px 0px 0px 30px;
 }
@@ -390,7 +399,7 @@ Cta
     font-size: 18px;
     text-transform: capitalize;
     color: #fff;
-    background-color: #5fcf80;
+    background-color: #E25F5F;
     border: 2px solid #fff;
     padding: 14px 30px;
     margin-left: -4px;
@@ -692,7 +701,7 @@ Footer
     padding: 10px 20px;
 }
 .light-form-button{
-    background: #5fcf80;
+    background: #E25F5F;
     border: 1px solid rgba(119, 81, 81, 0.34);
     width: 24%;
     padding: 10px 10px;
