@@ -47,9 +47,18 @@ Navigation bar
 ************************************/
 
 .pic {
+    margin: 0px auto;
     height: 30px;
     width: 60px;
     background: url('../img/china1.jpg');
+
+}
+
+.pic1 {
+    margin: 0px auto;
+    height: 30px;
+    width: 60px;
+    background: url('../img/espana.png');
 
 }
 .navbar-default .navbar-brand {
